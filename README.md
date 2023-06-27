@@ -62,6 +62,6 @@ The Human Resource Employee Data and the associated code in this repository are 
 
 ## Acknowledgments
 
-We would like to thank all contributors who participated in the data collection and analysis process.
+I would like to thank all contributors who participated in the data collection and analysis process.
 
-If you have any questions or suggestions, please feel free to reach out to us. We appreciate your feedback!
+If you have any questions or suggestions, please feel free to reach out to me. I appreciate your feedback!
