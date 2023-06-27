@@ -1,4 +1,4 @@
-# Human Resource Employee Data - Exploratory Data Analysis
+# Human Resource Employee Data - Exploratory Data Analysis & Visualization
 
 This repository contains the Human Resource Employee Data and the associated exploratory data analysis (EDA) conducted using MySQL and visualized using Microsoft Power BI. The dataset includes information such as employee location, age, name, hire date, and termination date.
 
