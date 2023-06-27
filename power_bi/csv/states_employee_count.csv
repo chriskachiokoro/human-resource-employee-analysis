@@ -1,0 +1,82 @@
+location,location_city,location_state,employee_count
+Headquarters,Cleveland,Ohio,13107
+Remote,Chicago,Illinois,283
+Remote,Philadelphia,Pennsylvania,268
+Remote,Pittsburgh,Pennsylvania,229
+Remote,Cincinnati,Ohio,221
+Remote,Louisville,Kentucky,174
+Remote,Detroit,Michigan,165
+Remote,Dayton,Ohio,161
+Remote,Indianapolis,Indiana,154
+Remote,Lexington,Kentucky,154
+Remote,Columbus,Ohio,139
+Remote,Milwaukee,Wisconsin,138
+Remote,Cleveland,Ohio,126
+Remote,Springfield,Illinois,122
+Remote,"Fort Wayne",Indiana,117
+Remote,Madison,Wisconsin,111
+Remote,Peoria,Illinois,107
+Remote,Toledo,Ohio,105
+Remote,Akron,Ohio,102
+Remote,Evansville,Indiana,96
+Remote,Erie,Pennsylvania,91
+Remote,Lansing,Michigan,87
+Remote,Harrisburg,Pennsylvania,74
+Remote,"Grand Rapids",Michigan,73
+Remote,Canton,Ohio,70
+Remote,"South Bend",Indiana,50
+Remote,Flint,Michigan,45
+Remote,"Wilkes Barre",Pennsylvania,40
+Remote,Youngstown,Ohio,35
+Remote,Kalamazoo,Michigan,35
+Remote,Rockford,Illinois,33
+Remote,Scranton,Pennsylvania,29
+Remote,Reading,Pennsylvania,28
+Remote,Lancaster,Pennsylvania,26
+Remote,"Green Bay",Wisconsin,26
+Remote,"Terre Haute",Indiana,25
+Remote,"Carol Stream",Illinois,22
+Remote,Gary,Indiana,22
+Remote,Warren,Ohio,21
+Remote,Farmington,Michigan,20
+Remote,Southfield,Michigan,19
+Remote,Saginaw,Michigan,18
+Remote,Anderson,Indiana,18
+Remote,Allentown,Pennsylvania,17
+Remote,Mansfield,Ohio,17
+Remote,Aurora,Illinois,17
+Remote,Levittown,Pennsylvania,17
+Remote,Racine,Wisconsin,16
+Remote,Palatine,Illinois,16
+Remote,Schaumburg,Illinois,16
+Remote,"New Castle",Pennsylvania,16
+Remote,Lima,Ohio,15
+Remote,Muskegon,Michigan,15
+Remote,"East Saint Louis",Illinois,15
+Remote,Bethlehem,Pennsylvania,15
+Remote,Bloomington,Indiana,15
+Remote,"Ann Arbor",Michigan,15
+Remote,Appleton,Wisconsin,15
+Remote,Muncie,Indiana,14
+Remote,Champaign,Illinois,13
+Remote,Springfield,Ohio,13
+Remote,Lafayette,Indiana,13
+Remote,Dearborn,Michigan,12
+Remote,"Valley Forge",Pennsylvania,12
+Remote,Midland,Michigan,12
+Remote,Crawfordsville,Indiana,12
+Remote,Joliet,Illinois,12
+Remote,"Battle Creek",Michigan,12
+Remote,Hamilton,Ohio,12
+Remote,Warren,Michigan,12
+Remote,Evanston,Illinois,11
+Remote,London,Kentucky,11
+Remote,York,Pennsylvania,11
+Remote,Naperville,Illinois,11
+Remote,"Mc Keesport",Pennsylvania,10
+Remote,Troy,Michigan,10
+Remote,Decatur,Illinois,10
+Remote,Bloomington,Illinois,10
+Remote,Johnstown,Pennsylvania,9
+Remote,Jeffersonville,Indiana,9
+Remote,Frankfort,Kentucky,8
