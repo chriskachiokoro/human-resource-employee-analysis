@@ -48,7 +48,7 @@ To reproduce the EDA and visualize the results:
 2. Execute the SQL scripts in the **sql_scripts** directory in the following order:
    - `cleaning.sql`: Cleans the data by handling missing values and inconsistencies.
    - `analysis.sql`: Performs the exploratory data analysis and generates insights.
-  Save each query in csv format.
+  Save each query result in csv format.
 
 3. Open Power BI and import the csv files in the **power_bi** directory using Get Data from text/csv individually.
 
