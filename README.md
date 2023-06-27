@@ -11,7 +11,7 @@ The Human Resource Employee Data consists of the following fields:
 - Employee Name: The name of the employee.
 - Hire Date: The date when the employee was hired.
 - Gender: The genger of the employee.
-- Job Title: The assigned ob title to the employee.
+- Job Title: The assigned job title of the employee.
 - Department: The department which the employee is assigned to.
 - Birth Date: Date of Birth of employee.
 - Race: Physical differences that groups and cultures consider socially significant. 
